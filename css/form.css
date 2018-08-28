@@ -1,0 +1,226 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pil1{
+text-decoration:none;
+list-style:none;
+cursor:pointer;
+padding:2px;
+
+}
+
+.pil1:hover{
+text-decoration:none;
+cursor:pointer;
+color:#FFF;	
+padding:2px;
+background:#4E4E4E;
+border-radius:10px;
+}
+
+
+
+.info_angka{
+padding:5px 10px;
+border-radius:5px;
+position:absolute;
+background:#FBFBFB;
+color:#393939;
+display:none;
+margin:2px 0 0 0;	
+font-size:19px;
+box-shadow:0 0 3px #FF00FF;
+}
+
+
+.cc{
+width:100%;
+height:100%;	
+background:url(../img/trans_hitam.png);
+position:absolute;	
+
+}
+
+#head{
+width:100%;
+height:100px;	
+}
+
+#main{
+font-family:Gotham, Helvetica Neue, Helvetica, "Calibri", sans-serif;
+font-size:16px;	
+font-weight:bold;
+padding:25px 20px  50px 20px ;
+color:#FC5002;
+background:#FFFFFF;	
+min-height:100px;	
+}
+
+.inp{
+height:30px;
+border-radius:6px;
+font-size:15px;
+font-family:Arial, Helvetica, sans-serif;	
+background:url(../img/bg-ipt.png);
+padding: 0 0 0 10px;
+outline:none;
+border:1px solid #F99210;	
+color:#3B3A3A;	
+}
+.inp:focus{
+height:30px;
+border-radius:6px;
+font-size:15px;
+font-family:Arial, Helvetica, sans-serif;	
+box-shadow:0 0 5px #06F;padding: 0 0 0 10px;
+border:1px solid #03F;
+list-style:none;
+outline:none;	
+}
+
+
+.pil1{
+text-decoration:none;
+list-style:none;
+cursor:pointer;
+
+}
+
+.pil1:hover{
+text-decoration:none;
+cursor:pointer;
+color:#036;	
+padding:2px;
+background:#CFC;
+border-radius:10px;
+}
+
+
+.btn_utm{
+cursor:pointer;
+border-radius:8px;
+background:url(../img/ijo.png);
+width:80px;height:40px;
+outline:none;	
+font-size:13px;
+font-weight:bold;
+color:#FFFFFF;
+}
+
+.btn_utm:hover{
+cursor:pointer;
+background:url(../img/merahh.png);
+
+}
+
+
+#tbl
+{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+margin:0px;
+width:100%;
+text-align: left;
+border-collapse: collapse;
+}
+#tbl th
+{
+background: #60c8f2 url('images/left.jpg') left top no-repeat;
+}
+#tbl th
+{
+padding: 4px;
+font-weight: bold;
+font-size: 13px;
+color: #F8E648;
+background: #60c8f2;
+}
+#tbl td
+{
+padding: 4px;
+background: #ecf8fd;
+border-top: 1px solid #fff;
+color: #669;
+}
+
+#tbl .tdd
+{
+padding: 8px;
+background: #F00;
+border-top: 1px solid #fff;
+color: #006;
+}
+
+
+#tbl tr{
+background: #ecf8fd url('images/botleft.jpg') left bottom no-repeat;
+}
+#tbl tr:hover td
+{
+background: #d2e7f0;
+}
+
+.btn_nav{
+cursor:pointer;
+border-radius:8px;
+background:url(../img/biru.png);
+width:80px;height:40px;
+outline:none;	
+font-size:13px;
+font-weight:bold;
+color:#FFFFFF;
+}
+
+.btn_nav:hover{
+cursor:pointer;
+background:url(../img/merahh.png);
+
+}
+
+ .pop_cari{
+		 position:absolute;
+		 margin-top:2px;
+		 left:5;
+		 color:#FFF;
+		 min-width:230px;
+		 z-index:100;
+		 background:#609;
+		 padding:5px;
+		 box-shadow:0 0 20px #CCFF33;
+		 border-radius:10px;
+		 height:300px; overflow:scroll;
+      	display:none;
+	 }
+.info{
+padding:5px 10px;
+border-radius:15px;
+background:url(../img/bg-main-trans.png);	
+position:absolute;
+background:#9F0;
+color:#30C;
+display:none;
+
+}
+
+
+.inp-kecil{
+height:20px;
+border-radius:6px;
+font-size:15px;
+font-family:Arial, Helvetica, sans-serif;	
+background:url(../img/bg-ipt.png);
+padding: 0 0 0 10px;
+outline:none;
+border:1px solid #F99210;	
+color:#3B3A3A;	
+}
+.inp-kecil:focus{
+height:20px;
+border-radius:6px;
+font-size:15px;
+font-family:Arial, Helvetica, sans-serif;	
+box-shadow:0 0 5px #06F;padding: 0 0 0 10px;
+border:1px solid #03F;
+list-style:none;
+outline:none;	
+}
+

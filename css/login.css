@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+#conta-login{
+width:600px;
+margin:0 auto;
+background:url(../img/trans.png);
+height:300px;	
+margin-top:50px;
+border-radius:25px;
+}

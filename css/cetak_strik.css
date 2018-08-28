@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+#ttd{
+width:21.59cm;	
+height:1.85cm;
+margin:0 auto;
+padding:5px 10px;
+border:1px solid rgba(5,5,5,1.00);
+	
+	
+}
+.bingkai{
+width:6cm;	
+border:0px solid rgba(5,5,5,1.00);
+margin:0 auto;
+padding:2px 12px;
+}
+
+.bingkai2{
+width:21.5cm;	
+min-height:13.8cm;
+border:1px solid #CCC;
+margin:0 auto;
+padding:5px 10px;
+}
+
+.bingkai22{
+width:25.5cm;	
+min-height:13.8cm;
+border:1px solid #CCC;
+margin:0 auto;
+font-size:10px;
+padding:5px 10px;
+}
+
+.isi_konten{
+	font-size:14px;
+	font-weight:bold;
+	
+	
+}
+
+.judul1{
+	font-size:18px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.isi{
+	font-size:7px;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.isi2{
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+
+#des
+{
+margin:0px;
+width:100%;
+text-align: left;
+margin-top:2px;
+border-collapse: collapse;
+}
+#des th
+{
+background:  left top no-repeat;
+}
+#des th
+{
+padding:1px;
+font-weight: bold;
+font-size: 14px;
+color: #0B0909;
+border-top:1px solid;
+border-bottom:1px solid;
+
+}
+#des td
+{
+padding: 1px 3px;
+font-size:14px;
+color: #070707;
+}
+
+#des .tdd
+{
+padding: 3px;
+border-top: 1px solid #fff;
+color: #090909;
+}
+
+
+#des tr{
+background:  left bottom no-repeat;
+}
+#des tr:hover td
+{
+background: #d2e7f0;
+}
